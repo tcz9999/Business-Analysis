@@ -1,0 +1,11 @@
+{
+  "name": "Business-Analysis",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "node build/dev_server.js",
+    "build": "node build/build.js"
+  },
+  "dependencies": {
+    
+  }
+}
